@@ -10,17 +10,17 @@ ShieldCSharp is a TypeScript library for interacting with the Openfort Shield AP
 
 .NET CLI
 ```shell
-dotnet add package Shield.SDK
+dotnet add package Openfort.Shield.SDK
 ```
 
 Package Manager
 ```shell
-NuGet\Install-Package Shield.SDK
+NuGet\Install-Package Openfort.Shield.SDK
 ```
 
 PackageReference
 ```xml
-<PackageReference Include="Shield.SDK" />
+<PackageReference Include="Openfort.Shield.SDK" />
 ```
 
 ## Usage

@@ -5,6 +5,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <Author>Openfort</Author>
+    <PackageId>Openfort.Shield.SDK</PackageId>
+    <Version>1.0.0</Version>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <Product>Shield</Product>
   </PropertyGroup>
 
   <ItemGroup>
