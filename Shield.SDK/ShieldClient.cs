@@ -18,7 +18,7 @@ namespace Shield.SDK
 
         public ShieldClient(ShieldOptions options)
         {
-            _baseURL = options.BaseURL ?? "https://shield.openfort.xyz";
+            _baseURL = options.BaseURL ?? "https://shield.openfort.io";
             _apiKey = options.ApiKey;
             _httpClient = new HttpClient();
         }
